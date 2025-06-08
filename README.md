@@ -33,7 +33,7 @@ java -cp target/classes:~/.m2/repository/org/apache/avro/avro/1.11.1/avro-1.11.1
 
 ## 🧠 Tip
 
-Please have a look at my tutorial: TODO: Insert title & url
+Please have a look at my tutorial [Avro Schema Compatibility and the Confluent Schema Registry](https://www.hascode.com/avro-schema-compatibility-and-the-confluent-schema-registry/)
 
 ---
 
